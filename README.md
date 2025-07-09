@@ -61,7 +61,7 @@ yarn dev
 - Add File : ![File](public/Images/File.png)
 - Rename : ![Rename](public/Images/Rename.png)
 - Same Name Error : ![Same name](public/Images/Same_name.png)
-- After Rename : ![After rename](public/Images/After_rename.png)
+- After Rename : ![After rename](public/Images/After_Rename.png)
 - Drag : ![Drag](public/Images/Drag.png)
 - After Drag : ![After Drag](public/Images/After_Drag.png)
 - Delete : ![Delete](public/Images/Delete.png)
